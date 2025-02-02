@@ -1,6 +1,5 @@
 # DOCREV
 ### Chris Lemley | CS50P 2025 via EdX | Submitted 2/2/2025
-### Video Demo: [link](https://youtu.be/dUhw1ZQ6A7I)
 
 # PURPOSE
 In my line of work, we often have to review a large amount of documents to gather information
